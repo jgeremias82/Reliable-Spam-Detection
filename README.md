@@ -14,14 +14,3 @@ Numerous challenges arise within the email ecosystem as a result of spam, includ
   <li><a href="https://secplab.ppgia.pucpr.br/dsdspam"> DSD dataset</a></li> 
 </ul>
 
-## BibTeX
-
-```bibtex
-@inproceedings{geremias2022motion,
-  title={A motion-based approach for real-time detection of pornographic content in videos},
-  author={Geremias, Jhonatan and Viegas, Eduardo K and Britto Jr, Alceu S and Santin, Altair O},
-  booktitle={Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing},
-  pages={1066--1073},
-  year={2022}
-}
-```
