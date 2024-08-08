@@ -11,7 +11,7 @@ Numerous challenges arise within the email ecosystem as a result of spam, includ
 
 ## Dataset
 <ul>
-  <li><a href="#"> SPAM Dataset</a></li>
+  <li><a href="https://secplab.ppgia.pucpr.br/dsdspam"> DSD dataset</a></li> 
 </ul>
 
 ## BibTeX
